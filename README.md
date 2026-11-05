@@ -101,6 +101,10 @@ img_text_batch/
     └── README.md     # 模型下载说明
 ```
 
+## 许可证
+
+本项目基于 [MIT License](LICENSE) 开源。
+
 ## 常见问题
 
 - **找不到中文字体**：在界面里手动选择字体文件（如 `C:\Windows\Fonts\msyh.ttc`）。

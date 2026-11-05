@@ -1,0 +1,22 @@
+{
+  "mode": "ocr",
+  "text_block": {
+    "x": 0.05,
+    "y": 0.84,
+    "w": 0.9,
+    "h": 0.14,
+    "align": "center"
+  },
+  "font_size": 30,
+  "color": "#FFFFFF",
+  "line_spacing": 1.5,
+  "erase": true,
+  "erase_engine": "lama",
+  "ocr_erase_all": false,
+  "paths": {
+    "tpl": "",
+    "clean": "",
+    "out": "",
+    "font": ""
+  }
+}

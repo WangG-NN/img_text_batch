@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# PyInstaller 打包产物
+build/
+dist/
+*.spec.bak
+
+# 可执行文件
+*.exe
+*.app
+*.dmg
+
+# 模型文件（体积大，请在 models/README.md 中查看下载方式）
+models/*
+!models/README.md
+
+# 本地配置（含个人绝对路径，模板见 config.example.json）
+config.json
+
+# 测试与输出图片
+_out_test/
+修改/
+图片打包/
+图片打包1/
+最终/
+
+# 发布用源码压缩包
+img_text_batch_mac_src.zip
+
+# 系统文件
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+desktop.ini
+__MACOSX/
+.AppleDouble
+
+# 编辑器
+.vscode/
+.idea/
